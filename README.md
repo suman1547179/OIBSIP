@@ -1,6 +1,6 @@
 # OIBSIP
 
-These projects were my Internship projects @ oasis infobyte
+These projects were my Internship projects
 TASK-1 Iris Flower Classification
 This repository contains the code for training a machine learning model to classify Iris flowers based on their measurements. The Iris flower dataset consists of three species: Setosa, Versicolor, and Virginica, each having distinct measurement characteristics. The goal is to develop a model that can accurately classify Iris flowers based on their measurements.
 *******************************************************************************************************************************************************************************************************************
