@@ -1,5 +1,5 @@
 # OIBSIP
-
+# TASK 1 - Iris Flower Classification
 During my internship, I worked on some projects. One of the projects involved training a machine learning model to classify Iris flowers based on their measurements. The dataset used in this project was the Iris flower dataset, which is commonly used for classification tasks and consists of three species of flowers: Setosa, Versicolor, and Virginica. The goal of this project was to develop a model that could accurately classify Iris flowers based on their measurements.
 
 The Iris flower dataset contains measurements of sepal length, sepal width, petal length, and petal width for 150 Iris flowers, with 50 samples for each species. The dataset used for this project is available in the repository as iris.csv.
