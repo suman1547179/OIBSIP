@@ -29,7 +29,7 @@ numpy
 pandas
 scikit-learn
 
-#TASK-5  
+# TASK-5  
 
 Laptop with Browser Icon
 Sales prediction means predicting how much of a product people will buy based on factors
